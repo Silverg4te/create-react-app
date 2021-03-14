@@ -1,11 +1,11 @@
 {
-  "name": "react-scripts",
+  "name": "pda-react-scripts",
   "version": "4.0.3",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Configuration and scripts for Patient Decision Aid.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/react-scripts"
+    "url": "https://github.com/Silverg4te/create-react-app.git",
+    "directory": "packages/pda-react-scripts"
   },
   "license": "MIT",
   "engines": {

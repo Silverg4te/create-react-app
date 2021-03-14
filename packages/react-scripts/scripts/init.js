@@ -371,6 +371,9 @@ module.exports = function (
   console.log(`Success! Created ${appName} at ${appPath}`);
   console.log('This react app has been customized to have patient decision aid components')
   console.log();
+  console.log(chalk.red("VERY IMPORTANT"));
+  console.log('This project is used mean to be used for creation of PDA. Disclaimer if there are any issues with the build')
+  console.log()
   console.log(chalk.cyan(`  ${displayedCommand} start`));
   console.log('    Starts the development server.');
   console.log();
